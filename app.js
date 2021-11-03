@@ -48,7 +48,7 @@ const getDadJoke = async () => {
 
 button.addEventListener("click", addNewJoke);
 
-////////////////////////////////SEARCH TC SHOW
+////////////////////////////////SEARCH TV SHOW
 const form = document.querySelector("#searchForm");
 form.addEventListener('submit', async function (e) {
   e.preventDefault();
