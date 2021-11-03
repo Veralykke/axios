@@ -1,11 +1,11 @@
 body {
-    background-color:rgba(0, 0, 0, 0.878)
+    background-color:rgb(103, 24, 82)
 }
-h1, ul, li{
+h1, h2, ul, li{
     color: white;
     font-size: larger;
 }
-button {
+.click {
     background-color: violet;
     width: 100px;
     height: 50px;
